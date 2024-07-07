@@ -18,3 +18,7 @@
 
 - set squeezelite output device to "makemono"
 - 
+
+
+Kernel cmdline (m1/c1/vicmd)
+video=HDMI-A-1:480x640,rotate=270
