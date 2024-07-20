@@ -22,3 +22,5 @@
 
 Kernel cmdline (m1/c1/vicmd)
 video=HDMI-A-1:480x640,rotate=270
+
+![Example](20240720_172706.jpg)
